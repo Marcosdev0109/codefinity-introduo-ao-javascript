@@ -1,0 +1,16 @@
+1. function printPoem() {
+2. console.log("Roses are red,");
+5.   console.log("Violets are blue,");
+6.   console.log("Learning to code");
+7.   console.log("Is fun to do!");
+10. }
+11. 
+12. printPoem();
+
+printPoem();
+
+  
+  // Write your code above this line
+}
+
+printPoem();
